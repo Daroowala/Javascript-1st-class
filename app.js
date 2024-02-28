@@ -1,14 +1,14 @@
 alert("Hello World");
-//var a = 10;
-//var b = 5;
-//var c = a+b;
-//alert(c);
+var a = 10;
+var b = 5;
+var c = a+b;
+alert(c);
 
 
-//var a = 10;
-//var b = 5;
-//var c = a+b;
-//console.log(c);
+var a = 10;
+var b = 5;
+var c = a+b;
+console.log(c);
 
 
 var x = 5;
