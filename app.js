@@ -45,3 +45,8 @@ alert (b);
 var a = 5;
 var b = ++a;
 alert (b);
+
+
+var x = 10;
+var y = x++ + ++x - x + x++ - ++x + x;
+alert (y); 
