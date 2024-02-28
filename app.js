@@ -50,3 +50,8 @@ alert (b);
 var x = 10;
 var y = x++ + ++x - x + x++ - ++x + x;
 alert (y); 
+
+
+var x = 20;
+var y = ++x - x++ + x + ++x - x++ + x;
+alert (y);
